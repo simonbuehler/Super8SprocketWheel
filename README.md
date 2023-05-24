@@ -1,6 +1,6 @@
 # 🎥 Parametric Normal 8 / Super 8 Film Sprocket Wheel 🎬
 
-This repository contains a FreeCAD project for creating parametric sprocket wheels compatible with Normal 8 and Super 8 film formats. Simply input the desired number of teeth in the spreadsheet, and the model will generate a sprocket wheel with correct dimensions.
+This repository contains a [FreeCAD](https://github.com/FreeCAD/FreeCAD) project for creating parametric sprocket wheels compatible with Normal 8 and Super 8 film formats. Simply input the desired number of teeth in the spreadsheet, and the model will generate a sprocket wheel with correct dimensions.
 
 ## 🛠️ Features
 
@@ -19,7 +19,6 @@ This repository contains a FreeCAD project for creating parametric sprocket whee
 
 ## 👁️ Preview
 
-Here some examples:
 ![wheel10](https://github.com/simonbuehler/Super8SprocketWheel/assets/78061/3ee3add5-e589-4b91-a99c-fb7b64cc9927)
 ![wheel28](https://github.com/simonbuehler/Super8SprocketWheel/assets/78061/e90c14ef-be5a-4bc3-8aee-06be8c6a7e12)
 
