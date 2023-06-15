@@ -8,6 +8,7 @@ This repository contains a [FreeCAD](https://github.com/FreeCAD/FreeCAD) project
 - 🎞️ Supports both Normal 8 and Super 8 film formats: The default model is for Normal 8, but parameters for Super 8 are commented in the spreadsheet.
 - 📏 Accurate dimensions: Ensures smooth and precise film transport.
 - 🔄 Seamless generation: Simply adjust parameters, generate your model, and export it for 3D printing or manufacturing.
+- ⚙️ 3D Printer optimized: splitted the wheel into pluggable parts without overhangs and need for support structures.
 
 ## ⚙️ How to Use
 
