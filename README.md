@@ -20,7 +20,7 @@ This repository contains a [FreeCAD](https://github.com/FreeCAD/FreeCAD) project
 
 ## 👁️ Preview
 
-![grafik](https://github.com/simonbuehler/Super8SprocketWheel/assets/78061/5a750373-b10c-490e-a2f4-dc0683f6803b)
+![grafik](https://github.com/simonbuehler/Super8SprocketWheel/assets/78061/3c74babf-3bfa-4649-a6f9-eaf9f592be81)
 ![wheel10](https://github.com/simonbuehler/Super8SprocketWheel/assets/78061/3ee3add5-e589-4b91-a99c-fb7b64cc9927)
 ![wheel28](https://github.com/simonbuehler/Super8SprocketWheel/assets/78061/e90c14ef-be5a-4bc3-8aee-06be8c6a7e12)
 
